@@ -1,0 +1,850 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fo",
+				"for\tfor …"
+			],
+			[
+				"tit",
+				"titre"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"true",
+				"true"
+			],
+			[
+				"as",
+				"assoc"
+			],
+			[
+				"a",
+				"assoc"
+			],
+			[
+				"de",
+				"depar"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"su",
+				"sumTroi"
+			],
+			[
+				"troi",
+				"troisPara"
+			],
+			[
+				"nom",
+				"nomChain"
+			],
+			[
+				"b",
+				"b"
+			],
+			[
+				"els",
+				"elseif\telseif …"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"deu",
+				"deuxChar"
+			],
+			[
+				"chain",
+				"chaineChar"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"retur",
+				"returnTrue"
+			],
+			[
+				"fun",
+				"create_function"
+			],
+			[
+				"ma",
+				"magnitude"
+			],
+			[
+				"e",
+				"echo"
+			],
+			[
+				"l",
+				"link\tTag"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"p",
+				"position"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"wo",
+				"word-spacing"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"backgroun",
+				"background-size"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"padi",
+				"padding-right"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"tran",
+				"transition"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"i",
+				"images/"
+			],
+			[
+				"s",
+				"section\tTag"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"pso",
+				"position"
+			],
+			[
+				"append",
+				"appendChild\t( node: Node ): Node Node"
+			],
+			[
+				"getE",
+				"getElementById\t( elementId: DOMString ): Element Document"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"bor",
+				"border-bottom-style"
+			],
+			[
+				"BORDER",
+				"border-radius"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"font-sy",
+				"font-style"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"whi",
+				"width"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"getel",
+				"getElementById\t( elementId: DOMString ): Element Document"
+			],
+			[
+				"border-s",
+				"border-style"
+			],
+			[
+				"w",
+				"width\t = 'auto' Style CSS"
+			],
+			[
+				"cli",
+				"clickIci"
+			],
+			[
+				"cont",
+				"contenu"
+			],
+			[
+				"ol",
+				"ol"
+			],
+			[
+				"ins",
+				"instructions"
+			],
+			[
+				"con",
+				"contenu"
+			],
+			[
+				"color",
+				"color\t = 'inherit' Style CSS"
+			],
+			[
+				"caher",
+				"cacher"
+			],
+			[
+				"af",
+				"afficher"
+			],
+			[
+				"rea",
+				"ready"
+			],
+			[
+				"li",
+				"listStyle\t Style CSS"
+			],
+			[
+				"stro",
+				"strokeStyle"
+			],
+			[
+				"ctx",
+				"ctx.fillStyle"
+			],
+			[
+				"fill",
+				"fillStyle"
+			],
+			[
+				"clos",
+				"closePath"
+			],
+			[
+				"str",
+				"stroke"
+			],
+			[
+				"clse",
+				"closePath"
+			],
+			[
+				"be",
+				"beginPath"
+			],
+			[
+				"line",
+				"lineTo"
+			],
+			[
+				"gete",
+				"description-getElementById\tDocument"
+			],
+			[
+				"scor",
+				"scoreJoueur"
+			],
+			[
+				"sco",
+				"scoreJoueur"
+			],
+			[
+				"sc",
+				"scoreOrdi"
+			],
+			[
+				"score",
+				"scoreOrdi"
+			],
+			[
+				"f",
+				"for\tfor (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"nu",
+				"numero"
+			],
+			[
+				"com",
+				"comparar"
+			],
+			[
+				"P",
+				"Pierre"
+			],
+			[
+				"fuc",
+				"function_with_name"
+			],
+			[
+				"jo",
+				"joueur"
+			],
+			[
+				"ale",
+				"aleatoria"
+			],
+			[
+				"resp",
+				"respuesta"
+			],
+			[
+				"F",
+				"Feuille"
+			],
+			[
+				"C",
+				"Ciseaux"
+			],
+			[
+				"us",
+				"user"
+			],
+			[
+				"cosn",
+				"console_log"
+			],
+			[
+				"mat",
+				"Math_random\t(): number Math"
+			],
+			[
+				"math",
+				"Math_floor\t( x: number ): number Math"
+			],
+			[
+				"onmo",
+				"onmouseout\tAttr"
+			],
+			[
+				"onm",
+				"onmouseout\tAttr"
+			],
+			[
+				"img",
+				"img1"
+			],
+			[
+				"im2",
+				"img2"
+			],
+			[
+				"im",
+				"img1"
+			],
+			[
+				"pri",
+				"primerImg"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"get",
+				"getElementById\t( elementId: DOMString ): Element Document"
+			],
+			[
+				"wirt",
+				"write\t( text_..: DOMString ): void Document"
+			],
+			[
+				"event",
+				"Event\t( type: DOMString, eventInitDict?: EventInit ): Event Event"
+			],
+			[
+				"cha",
+				"charCodeAt\t( pos: int ): int String"
+			],
+			[
+				"eve",
+				"event"
+			],
+			[
+				"onke",
+				"onkeypress\tAttr"
+			],
+			[
+				"ima",
+				"Image"
+			],
+			[
+				"obj",
+				"obj"
+			],
+			[
+				"doc",
+				"document\t: Document Window"
+			],
+			[
+				"imge",
+				"image1_2.jpg\tw:100 h:164"
+			],
+			[
+				"scr",
+				"src"
+			],
+			[
+				"imag",
+				"image1.jpg\tw:100 h:134"
+			],
+			[
+				"v",
+				"var"
+			],
+			[
+				"fut",
+				"function_with_name"
+			],
+			[
+				"consol",
+				"console_log"
+			],
+			[
+				"coso",
+				"console_log"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 319.0,
+		"last_filter": "prv",
+		"selected_items":
+		[
+			[
+				"prv",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Build: Cancel"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Advanced Install Package"
+			]
+		],
+		"width": 557.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib2,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/user/Documents/www-dev/public/php-pdo/index.php",
+		"/home/user/.config/sublime-text-3/Packages/Materialize/themes/Material One Dark.sublime-theme",
+		"/home/user/Documents/www-dev/public/PHP/serie9/index.php",
+		"/home/user/Documents/students.sql",
+		"/home/user/Documents/www-dev/public/serie5/index.php",
+		"/home/user/Documents/www-dev/public/serie4/index.php",
+		"/home/user/Documents/www-dev/public/serie3/index.php",
+		"/home/user/Documents/www-dev/public/serie2/index.php",
+		"/home/user/Documents/www-dev/public/exc01/index.php",
+		"/home/user/Becode/06-PHP/exc01/index.php",
+		"/home/user/Becode/Projet-bootstrap/style.css",
+		"/home/user/Becode/Projet-bootstrap/index.html",
+		"/home/user/Becode/TI-FrontEnd-AllezCine/README.md",
+		"/home/user/Becode/TI-FrontEnd-AllezCine/NewsLetter/index.html",
+		"/home/user/Becode/TI-FrontEnd-AllezCine/test.html",
+		"/home/user/Becode/TI-FrontEnd-AllezCine/style.css",
+		"/home/user/Becode/TI-FrontEnd-AllezCine/index.html",
+		"/home/user/Becode/TI-FrontEnd-AllezCine/NewsLetter/style.css",
+		"/home/user/Becode/TI-FrontEnd-AllezCine/Untitled Document",
+		"/home/user/Becode/TI-FrontEnd-AllezCine/js/scrolling-nav.js",
+		"/home/user/Becode/Untitled Document",
+		"/home/user/Becode/TI-FrontEnd-AllezCine/idenx.html",
+		"/home/user/Becode/04-Javascript/Canvas/bateau.html",
+		"/home/user/Becode/Projet-bootstrap/canvas.html",
+		"/home/user/Becode/Projet-bootstrap/js/scrolling-nav.js",
+		"/home/user/Becode/Projet-bootstrap/img/facebook.png",
+		"/home/user/index.html",
+		"/home/user/BecodeAnderlecht/BXLAnderlecht/05-jQuery/jquery-exercises-base2/Exercice_1/index.html",
+		"/home/user/BecodeAnderlecht/BXLAnderlecht/05-jQuery/jquery-exercises-base3/exc01.html",
+		"/home/user/BecodeAnderlecht/BXLAnderlecht/05-jQuery/jquery-exercises-base2/Exercice_4/index.html",
+		"/home/user/BecodeAnderlecht/BXLAnderlecht/05-jQuery/jquery-exercises-base2/Exercice_7/index.html",
+		"/home/user/BecodeAnderlecht/BXLAnderlecht/05-jQuery/jquery-exercises-base2/Exercice_6/index.html",
+		"/home/user/BecodeAnderlecht/BXLAnderlecht/05-jQuery/jquery-exercises-base2/Exercice_5/index.html",
+		"/home/user/BecodeAnderlecht/BXLAnderlecht/05-jQuery/jquery-exercises-base2/Exercice_7/koala.jpg",
+		"/home/user/BecodeAnderlecht/BXLAnderlecht/05-jQuery/jquery-exercises-base1/exercice 10/index.html",
+		"/home/user/BecodeAnderlecht/BXLAnderlecht/05-jQuery/jquery-exercises-base2/Exercice_3/index.html",
+		"/home/user/BecodeAnderlecht/BXLAnderlecht/05-jQuery/jquery-exercises-base2/Exercice_2/index.html",
+		"/home/user/BecodeAnderlecht/BXLAnderlecht/05-jQuery/jquery-exercises-base1/exercice 9/index.html",
+		"/home/user/BecodeAnderlecht/BXLAnderlecht/05-jQuery/jquery-exercises-base1/exercice 8/index.html",
+		"/home/user/BecodeAnderlecht/BXLAnderlecht/05-jQuery/jquery-exercises-base1/exercice 7/index.html",
+		"/home/user/BecodeAnderlecht/BXLAnderlecht/05-jQuery/jquery-exercises-base1/exercice 6/index.html",
+		"/home/user/BecodeAnderlecht/BXLAnderlecht/05-jQuery/jquery-exercises-base1/exercice 5/index.html",
+		"/home/user/BecodeAnderlecht/BXLAnderlecht/05-jQuery/jquery-exercises-base1/exercice 4/index.html",
+		"/home/user/BecodeAnderlecht/BXLAnderlecht/05-jQuery/jquery-exercises-base1/exercice 3/index.html",
+		"/home/user/BecodeAnderlecht/BXLAnderlecht/05-jQuery/jquery-exercises-base1/exercice 2/index.html",
+		"/home/user/BecodeAnderlecht/BXLAnderlecht/05-jQuery/jquery-exercises-base1/exercice 1/index.html",
+		"/home/user/Becode/jQuery/jquery-exercises-base1/exercice1/exc01.html",
+		"/home/user/Becode/jQuery/jquery-exercises-base1/exercice1/jquery-2.2.4.js",
+		"/home/user/Becode/04-Javascript/Canvas/canvas01.html",
+		"/home/user/Becode/04-Javascript/juegos/index.html",
+		"/home/user/Becode/04-Javascript/juegos/index1.html",
+		"/home/user/Becode/04-Javascript/juegos/jeux.html",
+		"/home/user/Becode/04-Javascript/js-exercises-base3/exc06/exc06.html",
+		"/home/user/Becode/04-Javascript/js-exercises-base3/exc05/exc05.html",
+		"/home/user/Becode/04-Javascript/js-exercises-base3/exc04.html",
+		"/home/user/Becode/04-Javascript/js-exercises-base3/exc03.html",
+		"/home/user/Becode/04-Javascript/js-exercises-base3/exc02.html",
+		"/home/user/Becode/04-Javascript/js-exercises-base3/exc01/exc01.html",
+		"/home/user/Becode/04-Javascript/js-exercises-base3/exc05.html",
+		"/home/user/Becode/04-Javascript/Excercises-base2/ex02.html",
+		"/home/user/Becode/04-Javascript/js-exercises-base3/exc01.html",
+		"/home/user/Becode/04-Javascript/Excercises-base2/ex09.html",
+		"/home/user/Becode/04-Javascript/Excercises-base2/ex08.html",
+		"/home/user/Becode/04-Javascript/Excercises-base2/ex07.html",
+		"/home/user/Becode/04-Javascript/Excercises-base2/ex10.html",
+		"/home/user/Becode/04-Javascript/StoryTeller/JavaScript.js",
+		"/home/user/Becode/juegos/index1.html",
+		"/home/user/Becode/juegos/index.html",
+		"/home/user/Becode/juegos/jeux.html",
+		"/home/user/Becode/index.html",
+		"/home/user/Becode/index1.html",
+		"/home/user/Becode/04-Javascript/Excercises-base2/ex06.html",
+		"/home/user/Becode/04-Javascript/Excercises-base2/ex04.html",
+		"/home/user/Becode/04-Javascript/Excercises-base2/ex03.html",
+		"/home/user/Becode/04-Javascript/Excercises-base2/ex01.html",
+		"/home/user/Becode/javaScript.js",
+		"/home/user/Becode/04-Javascript/Excercices/exc07/index.html",
+		"/home/user/Becode/04-Javascript/Excercices/exc07/javascript.js",
+		"/home/user/Becode/04-Javascript/StoryTeller/index.html",
+		"/home/user/Becode/04-Javascript/Excercices/exc08/javascript.js",
+		"/home/user/Becode/04-Javascript/Excercices/exc08/index.html",
+		"/home/user/Becode/04-Javascript/Excercices/exc05/index.html",
+		"/home/user/Becode/04-Javascript/Excercices/exc06/javascript.js",
+		"/home/user/Becode/04-Javascript/Excercices/exc06/index.html",
+		"/home/user/Becode/04-Javascript/Excercices/exc04/index.html",
+		"/home/user/Becode/04-Javascript/exc08/index.html",
+		"/home/user/Becode/04-Javascript/exc08/javascript.js",
+		"/home/user/Becode/04-Javascript/exc07/javascript.js",
+		"/home/user/Becode/04-Javascript/exc07/index.html",
+		"/home/user/Becode/04-Javascript/exc06/javascript.js",
+		"/home/user/Becode/04-Javascript/exc06/index.html",
+		"/home/user/Becode/04-Javascript/exc05/index.html",
+		"/home/user/Becode/04-Javascript/exc04/index.html",
+		"/home/user/Becode/04-Javascript/exc03/index.html",
+		"/home/user/Becode/04-Javascript/exc01/index.html",
+		"/home/user/Becode/04-Javascript/exc02/index.html",
+		"/home/user/Becode/Projet-bootstrap/index1.html",
+		"/home/user/Becode/Projet-bootstrap/index3.html",
+		"/home/user/Becode/Projet-bootstrap/index2.html",
+		"/home/user/Becode/bootstrap-ex01/exe4/index.html",
+		"/home/user/Becode/tp_final/index.html",
+		"/home/user/Becode/tp_final/style.css",
+		"/home/user/Becode/bootstrap-ex01/exe3/index.html",
+		"/home/user/Becode/bootstrap-ex01/exe2/index.html",
+		"/home/user/Becode/bootstrap-ex01/exe1/index.html",
+		"/home/user/Becode/bootstrap-ex01/style.css",
+		"/home/user/Becode/bootstrap-ex01/index.html",
+		"/home/user/Becode/active.collab/style.css",
+		"/home/user/Becode/Training-3-tableau/tableauCV.html",
+		"/home/user/Becode/Training-3-tableau/tableauCV.css",
+		"/home/user/Becode/active.collab/index.html",
+		"/home/user/Becode/HTML-Exercice-3/tablas.css",
+		"/home/user/Becode/HTML-Exercice-3/tablas.html",
+		"/home/user/Becode/La prierie/Porjecthtmlcss/style.css",
+		"/home/user/Becode/htmlperso/my-style.css",
+		"/home/user/Becode/htmlperso/index.html",
+		"/home/user/Becode/htmlperso/anim.css",
+		"/home/user/Becode/htmlperso/Anim.html",
+		"/home/user/Becode/La prierie/ejercicio2/index.html",
+		"/home/user/Becode/ejercicio2/index.html",
+		"/home/user/Becode/Star-Wars-Crawl/styleWars.css",
+		"/home/user/Becode/Porjecthtmlcss/style.css",
+		"/home/user/Becode/ejercicio2/style.css",
+		"/home/user/Becode/Star-Wars-Crawl/StarWars.html",
+		"/home/user/Becode/Porjecthtmlcss/index.html",
+		"/home/user/Becode/Exercice-Cadavdre-exquis-Japhet/CadavreExquisJaphet/README.md",
+		"/home/user/Becode/Exercice-Cadavre-exquis-Nadia/README.md",
+		"/home/user/Downloads/style.css"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"sidebar_label",
+			"siderbar_label",
+			"siderbar",
+			"style",
+			"buttonplus",
+			"bottonplus",
+			"botonplus",
+			"acueil",
+			"\">\n",
+			"row",
+			"http",
+			"container",
+			"div></div>\n\t\t\t\t\t<div></div>\n\t\t\t\t\t<div></div>",
+			"div",
+			">\n",
+			"div",
+			"all",
+			">\n",
+			";\n"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 193.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
